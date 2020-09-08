@@ -1,4 +1,4 @@
-## ask 4: ScratchJr Interface and blocks
+## Task 4: ScratchJr Interface and blocks
 In order to prepare for effective teaching of Storytelling you will need to familiarise yourself with the ScratchJr Programming Environment: Characters, Blocks Palette and Programming Script. You will also need to ensure you understand the following:
 + Triggering Blocks: Start on Green Flag, Send Message and Start on Message, Start on Bump, Start on Tap
 + Motion Blocks: Move Right, Move Left, Hop, Turn Right, Turn Left
