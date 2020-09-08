@@ -1,3 +1,9 @@
-## Task 5: Plenary
+## Task 6: Drawing in ScratchJr
+As part of drawing ideas, explore [ScratchJr Paint Editor Guide](https://www.scratchjr.org/pdfs/paint-editor-guide.pdf) and experiment with drawing in ScratchJr.
+Create one, some or all of the following:
++ house
++ car
++ computer
++ an animal such as a giraffe 
 
-Now check your understanding of ScratchJr with the following Multiple Choice Questions: https://docs.google.com/presentation/d/1rnADrJ4il2aOwlDp2zGlmU5mQeYBds5_TG_kUa7jkho/edit#slide=id.g90d2d05bbf_0_372
+OR think of a Character you’d like to create which isn’t available in ScratchJr.
