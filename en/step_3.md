@@ -9,10 +9,10 @@ In order to prepare for effective teaching of Storytelling you will need to fami
 + Looks Blocks: Say, Hide, Show, Grow, Shrink
 + Paint Editor
 
-![Modelling ScratchJr interface](images/ks1storytelling-ScratchJrInterface.gif
+![Modelling ScratchJr interface](images/ks1storytelling-ScratchJrInterface.gif)
 
 In order to further your understanding you can explore the following documents: 
-[ScratchJr Interface Guide](www.scratchjr.org/pdfs/scratchjr-interface-guide.pdf) 
-[ScratchJr Blocks Description](www.scratchjr.org/pdfs/block-descriptions.pdf)
+[ScratchJr Interface Guide](https://www.scratchjr.org/pdfs/scratchjr-interface-guide.pdf) 
+[ScratchJr Blocks Description](https://www.scratchjr.org/pdfs/block-descriptions.pdf)
 
 If you require step-by-step guides on the above you can supplement your learning by undertaking Lessons 2 to 6, Unit 1 and Lessons 1 to 4, Unit 2.
