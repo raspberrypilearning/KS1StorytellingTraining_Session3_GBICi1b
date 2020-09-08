@@ -1,7 +1,18 @@
-## What next?
+## ask 4: ScratchJr Interface and blocks
+In order to prepare for effective teaching of Storytelling you will need to familiarise yourself with the ScratchJr Programming Environment: Characters, Blocks Palette and Programming Script. You will also need to ensure you understand the following:
++ Triggering Blocks: Start on Green Flag, Send Message and Start on Message, Start on Bump, Start on Tap
++ Motion Blocks: Move Right, Move Left, Hop, Turn Right, Turn Left
++ Selecting and placing Characters
++ Control Blocks: Repeat, Wait, Set Speed, Stop
++ Background
++ Program for each Character
++ Looks Blocks: Say, Hide, Show, Grow, Shrink
++ Paint Editor
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+![Modelling ScratchJr interface](images/ks1storytelling-ScratchJrInterface.gif
 
-![ProjectName project](images/projectname-project.png)
+In order to further your understanding you can explore the following documents: 
++ [ScratchJr Interface Guide](www.scratchjr.org/pdfs/scratchjr-interface-guide.pdf) 
++ [ScratchJr Blocks Description](www.scratchjr.org/pdfs/block-descriptions.pdf)
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+If you require step-by-step guides on the above you can supplement your learning by undertaking Lessons 2 to 6, Unit 1 and Lessons 1 to 4, Unit 2.
