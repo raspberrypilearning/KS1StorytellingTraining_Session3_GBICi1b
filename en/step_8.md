@@ -1,3 +1,5 @@
+Please now complete this [KS1 Training Survey](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part2_GBICi1b/7){:target="_blank"} so we can continue to improve our training courses.
+
 You have now completed the course. Well done! And thank you.
 
 **Please DO NOT click the green 'What's next' button (below-right) as this link is NOT relevant to this training course.**
