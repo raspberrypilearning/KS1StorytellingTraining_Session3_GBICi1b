@@ -1,4 +1,4 @@
-Please now complete this [KS1 Training Survey](https://docs.google.com/forms/d/1dfKT3_hbo0iDiEM6Mt-Nu9YHkEJOUQD4drcDmXKlARs/edit){:target="_blank"} so we can continue to improve our training courses.
+Please now complete this [KS1 Training Survey](https://docs.google.com/forms/d/1dfKT3_hbo0iDiEM6Mt-Nu9YHkEJOUQD4drcDmXKlARs/edit){:target="_blank"} to confirm completion of the course and provide some feedback.
 
 You have now completed the course. Well done! And thank you.
 
