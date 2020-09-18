@@ -4,7 +4,5 @@ You have now completed the course. Well done! And thank you.
 
 **Please DO NOT click the green 'What's next' button (below-right) as this link is NOT relevant to this training course.**
 
-Please click [here] to access the completion form, adding your name and the date completed. YET TO BE SET UP...
-
 If you need to go back to the list of contents for this session (Session 2, Part 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part2_GBICi1b).
 If you need to access the menu for Session 1 and Session 2 (Parts 1 & 2), click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
