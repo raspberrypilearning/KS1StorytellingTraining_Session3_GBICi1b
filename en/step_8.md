@@ -1,6 +1,6 @@
-## Task 9: Completion form
+## Task 9: Completion survey
 
-Please now complete this [KS1 Training Survey](https://docs.google.com/forms/d/1dfKT3_hbo0iDiEM6Mt-Nu9YHkEJOUQD4drcDmXKlARs/edit){:target="_blank"} to confirm completion of the course and provide some feedback.
+Please now complete thiand forms [KS1 Training Survey](https://docs.google.com/forms/d/1dfKT3_hbo0iDiEM6Mt-Nu9YHkEJOUQD4drcDmXKlARs/edit){:target="_blank"} to confirm completion of the course and provide some feedback.
 
 You have now completed the course. Well done! And thank you.
 
