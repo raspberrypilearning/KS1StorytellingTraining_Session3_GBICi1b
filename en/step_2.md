@@ -5,5 +5,5 @@ This lesson focuses on ideas for interactive stories, enabling you to develop yo
 
 Click the green button (below right) for the next step in this session.
 
-If you need to go back to the list of contents for this session (Session 2, Part 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_Part2_GBICi1b).
+If you need to go back to the list of contents for this session (Session 3), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
 If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
