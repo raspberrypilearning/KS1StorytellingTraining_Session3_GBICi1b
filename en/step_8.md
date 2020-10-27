@@ -1,8 +1,8 @@
 ## Task 9: Completion survey
 
-Please complete the [KS1 Training Survey](https://docs.google.com/forms/d/1dfKT3_hbo0iDiEM6Mt-Nu9YHkEJOUQD4drcDmXKlARs/edit){:target="_blank"} to confirm completion of the course and provide some feedback.
+Please complete the [KS1 'Storytelling' training survey](https://ncce.io/8Sm534){:target="_blank"} to confirm that you have finished the course and provide some feedback.
 
-You have now completed the course. Well done! And thank you.
+You have now completed the course. Thank you, and well done!
 
 You can go back to the [list of contents for this session (Session 3) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
 
