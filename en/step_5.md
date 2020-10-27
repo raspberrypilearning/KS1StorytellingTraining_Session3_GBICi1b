@@ -1,4 +1,4 @@
-## Task 6: Drawing in ScratchJr
+## Task 4: Drawing in ScratchJr
 Explore the [ScratchJr Paint Editor Guide](https://www.scratchjr.org/pdfs/paint-editor-guide.pdf) and experiment with drawing in ScratchJr.
 
 Create one, some, or all of the following:
