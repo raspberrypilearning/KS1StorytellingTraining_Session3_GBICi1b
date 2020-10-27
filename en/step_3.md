@@ -1,4 +1,4 @@
-## Task 4: ScratchJr interface and blocks
+## Task 2: ScratchJr interface and blocks
 In order to prepare for these units, you will need to familiarise yourself with the ScratchJr programming environment, including characters, the Blocks Palette, and the Programming Area. You will also need to ensure that you understand the following:
 + Triggering blocks: 'Start on Green Flag', 'Send Message' and 'Start on Message', 'Start on Bump', 'Start on Tap'
 + Motion blocks: 'Move Right', 'Move Left', 'Hop', 'Turn Right', 'Turn Left'
