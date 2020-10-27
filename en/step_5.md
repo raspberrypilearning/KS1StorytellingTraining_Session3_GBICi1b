@@ -7,7 +7,7 @@ Create one, some, or all of the following:
 + A computer
 + An animal, such as a giraffe 
 
-Alternatively, think of a character that you'd like to create that isn't available in ScratchJr.
+Alternatively, create a character that you would like to use that isn't available in ScratchJr.
 
 Click the green button (below right) to go to the next step in this session.
 
