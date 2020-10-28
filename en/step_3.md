@@ -12,8 +12,8 @@ In order to prepare for these units, you will need to familiarise yourself with 
 ![Modelling ScratchJr interface](images/ks1storytelling-ScratchJrInterface.gif)
 
 In order to further your understanding, you can explore the following documents: 
-[ScratchJr Interface Guide](https://www.scratchjr.org/pdfs/scratchjr-interface-guide.pdf) 
-[ScratchJr Block Descriptions](https://www.scratchjr.org/pdfs/block-descriptions.pdf)
++ [ScratchJr Interface Guide](https://www.scratchjr.org/pdfs/scratchjr-interface-guide.pdf) 
++ [ScratchJr Block Descriptions](https://www.scratchjr.org/pdfs/block-descriptions.pdf)
 
 If you would like to learn more about the above, you can supplement your learning by undertaking Unit 1 – Lessons 2 to 6, and Unit 2 – Lessons 1 to 4.
 
