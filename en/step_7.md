@@ -1,6 +1,6 @@
 ## Task 8: Post-training Webinar
 
-The information in this task formed the basis of the Storytelling post-training webinar. Even if you attended the Post-training Webinar, it is recommended that you work your way through the embedded video recording and/or slide deck to remind yourself of the key questions, the FAQs (Frequently Asked Questions), feedback mechanisms and how to engage in the community.
+The information in this task formed the basis of the Storytelling post-training webinar. Even if you attended the Post-training Webinar, it is recommended that you work your way through the embedded video recording and/or slide deck to remind yourself of the key questions, the FAQs (Frequently Asked Questions), feedback mechanisms and how to engage in the community. Once you have finished, don't forget to complete the survey in the next step to let us know you have completed the course.
  
 ![Embedded video of Post-training Webinar event](images/ks1storytelling-PostTrainingEventVideo.gif)
 ![Embedded slide deck for Post-training Webinar event](images/ks1storytelling-PostTrainingEventSlideDeck.gif)
