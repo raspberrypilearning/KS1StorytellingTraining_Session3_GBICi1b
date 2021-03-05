@@ -6,12 +6,11 @@ listed: false
 copyedit: false
 last_tested: "2020-09-08"
 steps:
-  - title: Tasks in ScratchJr
+  - title: "Tasks in ScratchJr"
   - title: "Task 1: Drawing ideas"
   - title: "Task 2: ScratchJr interface and blocks"
   - title: "Task 3: ScratchJr blocks: Questions and answers"
   - title: "Task 4: Drawing in ScratchJr"
   - title: "Task 5: Sharing projects"
-  - title: "Task 6: Post-training webinar"
-  - title: "Task 7: Completion survey"
+  - title: "Task 6: Completion survey"
   
