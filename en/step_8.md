@@ -1,4 +1,4 @@
-## Task 7: Completion survey
+## Task 6: Completion survey
 
 Please complete the [KS1 Storytelling training survey](https://ncce.io/yMTtBJ){:target="_blank"} to confirm that you have finished the course and provide some feedback.
 
